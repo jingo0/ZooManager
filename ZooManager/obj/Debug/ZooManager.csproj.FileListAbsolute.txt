@@ -1,0 +1,16 @@
+C:\Users\jinan\source\repos\ZooManager\ZooManager\bin\Debug\ZooManager.exe.config
+C:\Users\jinan\source\repos\ZooManager\ZooManager\bin\Debug\ZooManager.exe
+C:\Users\jinan\source\repos\ZooManager\ZooManager\bin\Debug\ZooManager.pdb
+C:\Users\jinan\source\repos\ZooManager\ZooManager\obj\Debug\ZooManager.csproj.AssemblyReference.cache
+C:\Users\jinan\source\repos\ZooManager\ZooManager\obj\Debug\ZooManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\jinan\source\repos\ZooManager\ZooManager\obj\Debug\MainWindow.g.cs
+C:\Users\jinan\source\repos\ZooManager\ZooManager\obj\Debug\App.g.cs
+C:\Users\jinan\source\repos\ZooManager\ZooManager\obj\Debug\ZooManager_MarkupCompile.cache
+C:\Users\jinan\source\repos\ZooManager\ZooManager\obj\Debug\ZooManager_MarkupCompile.lref
+C:\Users\jinan\source\repos\ZooManager\ZooManager\obj\Debug\MainWindow.baml
+C:\Users\jinan\source\repos\ZooManager\ZooManager\obj\Debug\ZooManager.g.resources
+C:\Users\jinan\source\repos\ZooManager\ZooManager\obj\Debug\ZooManager.Properties.Resources.resources
+C:\Users\jinan\source\repos\ZooManager\ZooManager\obj\Debug\ZooManager.csproj.GenerateResource.cache
+C:\Users\jinan\source\repos\ZooManager\ZooManager\obj\Debug\ZooManager.csproj.CoreCompileInputs.cache
+C:\Users\jinan\source\repos\ZooManager\ZooManager\obj\Debug\ZooManager.exe
+C:\Users\jinan\source\repos\ZooManager\ZooManager\obj\Debug\ZooManager.pdb
